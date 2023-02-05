@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ivaquero
 - 👀 I’m interested in Autonomous Driving
-- 🌱 I’m currently learning Kalman Filter
+- 🌱 I’m currently learning Kalman Filters
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
