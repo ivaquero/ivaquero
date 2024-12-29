@@ -24,5 +24,6 @@
 
 ### 🌱 I’m currently learning
 
-- Julia
 - Rust
+- Go
+- Julia
