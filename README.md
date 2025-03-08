@@ -26,4 +26,3 @@
 
 - Rust
 - Go
-- Julia
