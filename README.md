@@ -13,15 +13,14 @@
 <p>
         <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
-        <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat" />
         <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat" />
 </p>
 
 - C++
 - Python
-- Go
 - Shell
 
 ### 🌱 I’m currently learning
 
+- Rust
 - Julia
