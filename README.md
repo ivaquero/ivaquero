@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @ivaquero
+# 👋 Hi, I’m @ivaquero
 
 ### 👀 I’m interested in 
 
@@ -6,7 +6,7 @@
 - Kalman Filters
 - Deep Learning
 
-### 🔭I’m currently coding with
+## 🔭I’m currently coding with
 
 <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
@@ -20,7 +20,11 @@
 - C++
 - Bash
 
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 
 - Rust
 - Julia
+
+## 📈 Languages
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivaquero&theme=vue)
